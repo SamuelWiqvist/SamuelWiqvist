@@ -1,6 +1,6 @@
 ## Hello!
 
-🔭 I’m currently pursuing a P.hD in mathematical statistics at Lund University, Sweden.
+I’m currently pursuing a P.hD in mathematical statistics at Lund University, Sweden.
 
 ### Some of my work
 
