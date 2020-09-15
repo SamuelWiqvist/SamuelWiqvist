@@ -8,7 +8,7 @@ I’m currently pursuing a P.hD in mathematical statistics at Lund University, S
 
 - [Efficient inference for stochastic differential mixed-effects models using correlated particles pseudo-marginal algorithms](https://github.com/SamuelWiqvist/efficient_SDEMEM)
 
-    In this paper, we use correlated particle pseudo-marginal Metropolis-Hastings (CPMMH) for accelerating inference for stochastic differential equation mixed-effects models. 
+    In this paper, we use correlated particle pseudo-marginal Metropolis-Hastings (CPMMH) for accelerating inference for stochastic differential equation mixed-effects models (SDEMEMs). 
     
 - [Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation](https://github.com/SamuelWiqvist/PENs-and-ABC)
 
