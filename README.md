@@ -1,6 +1,8 @@
-### Hello
+## Hello!
 
 🔭 I’m currently pursuing a P.hD in mathematical statistics at Lund University, Sweden.
+
+### Some of my work
 
 #### Research
 
@@ -13,8 +15,13 @@
 #### Tutorials
 
 - [Introduction to likelihood-free inference](https://github.com/SamuelWiqvist/introlikelihoodfree)
+- [Implementation of some ABC algorithms in Julia](https://github.com/SamuelWiqvist/ApproximateBayesianComputation.jl)
 
 #### Talks
 
 - [Bayes@Lund 2019](https://github.com/SamuelWiqvist/bayesatlund2019presentation)
 - [Pioneers-pp: Bayesian statistics and ABC talk](https://github.com/SamuelWiqvist/pioneers-pp-abc-talk)
+
+#### Other
+
+- [Useful terminal/git commands](https://github.com/SamuelWiqvist/usefulcommands)
