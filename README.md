@@ -42,4 +42,4 @@ I’m currently pursuing a P.hD in mathematical statistics at Lund University, S
 
 - [Useful terminal/git commands](https://github.com/SamuelWiqvist/usefulcommands)
 
-    > A list of some useful terminal/git commands that I regularly use.
+    A list of some useful terminal/git commands that I regularly use.
