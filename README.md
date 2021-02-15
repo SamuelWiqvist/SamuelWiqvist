@@ -2,6 +2,11 @@
 
 #### Research
 
+
+- [Sequential Neural Posterior and Likelihood Approximation](https://arxiv.org/abs/2102.06522)
+
+    A paper on neural density estimation where we present an algorithm that learns both the posterior and likelihood of the model.  
+
 - [Efficient inference for stochastic differential mixed-effects models using correlated particles pseudo-marginal algorithms](https://github.com/SamuelWiqvist/efficient_SDEMEM)
 
     In this paper, we use correlated particle pseudo-marginal Metropolis-Hastings (CPMMH) for accelerating inference for stochastic differential equation mixed-effects models (SDEMEMs). 
