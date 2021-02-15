@@ -3,7 +3,7 @@
 #### Research
 
 
-- [Sequential Neural Posterior and Likelihood Approximation](https://arxiv.org/abs/2102.06522)
+- [Sequential Neural Posterior and Likelihood Approximation](https://github.com/SamuelWiqvist/snpla)
 
     A paper on neural density estimation where we present an algorithm that learns both the posterior and likelihood of the model.  
 
