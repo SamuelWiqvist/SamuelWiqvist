@@ -5,7 +5,7 @@
 
 - [Sequential Neural Posterior and Likelihood Approximation](https://github.com/SamuelWiqvist/snpla)
 
-    A paper on neural density estimation where we present an algorithm that learns both the posterior and the likelihood of the model.  
+    A paper on simulation-based inference where we present an algorithm that learns both the posterior and the likelihood of the model.  
 
 - [Efficient inference for stochastic differential mixed-effects models using correlated particles pseudo-marginal algorithms](https://github.com/SamuelWiqvist/efficient_SDEMEM)
 
